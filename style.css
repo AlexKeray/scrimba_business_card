@@ -1,0 +1,36 @@
+.main {
+    margin: 20px;
+}
+
+.card {
+    width: 500px;
+    background-color: lightskyblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+}
+
+.avatar {
+    width: 200px;
+    padding-left: 40px;
+}
+
+.text-wrapper {
+    padding-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    font-size: larger;
+    font-family: Verdana;
+
+}
+
+.bottom-border {
+    width: 500px;
+    height: 13px;
+    background-color:rgb(98, 186, 241)
+}
+
+.border-red {
+    border: red dashed 2px;
+}
